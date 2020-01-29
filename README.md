@@ -1,6 +1,6 @@
 # AviaTickets
   This projects shows the price and general information of available tickets. 
-  You can choose country where are you going from, to the country you are going from, and after choosing approximate date and submiting, 
+  You can choose country where are you leaving from, to the country you are going from, and after choosing approximate date and submiting, 
   it will shows you all available tickets.
   I used here API, and inputs are working with "**materialize_autocomplete**", and it is in Russian language. So, for cheking how it works,
   You can choose some of this countries.
