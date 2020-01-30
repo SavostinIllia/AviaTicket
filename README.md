@@ -15,4 +15,4 @@
   or just type only 1 russian letter in input, and you will can choose one of more then 9000 countries with "**materialize_autocomplete**"
 
 ## Live Demo 
-  https://https://savostinillia.github.io/AviaTicket/dist/index.html
+  savostinillia.github.io/AviaTicket/dist/index.html
